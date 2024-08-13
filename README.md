@@ -1,9 +1,9 @@
 ![ASHISH KUMAR SAHOO (1)](https://github.com/user-attachments/assets/0b237b5a-2823-4c9c-b035-24c671103079)
 
-<div align="center">
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/darksparks474/count.svg" />
-</div>
+</p>
 
 <br />
 

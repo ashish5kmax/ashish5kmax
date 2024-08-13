@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
+</div>
 
-<!--
-**darksparks474/darksparks474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/darksparks474/count.svg" />
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>Coding Enthusiast, Problem Solver, 3D-Design Maker</h2>
+
+  <h4>
+    I'm a 3rd year student from BMSIT from 🇮🇳 currently pursuing B.E in Information Science & Engineering.
+  </h4>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><strong>About me</strong></p>
+
+   📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+   ❤️ I love solving Problems, and building projects and experimenting with it.
+
+   💬 Ask me about anything [**here**](mailto:ashish10112093@gmail.com)
+
+  ![Ashish Kumar Sahoo's GitHub](https://github-readme-stats.vercel.app/api?username=darksparks474&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darksparks474)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<br />
+<br />

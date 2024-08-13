@@ -1,4 +1,4 @@
-<![ASHISH KUMAR SAHOO (2)](https://github.com/user-attachments/assets/f0b07551-f926-4349-9457-7e9e15766710)
+![ASHISH KUMAR SAHOO (2)](https://github.com/user-attachments/assets/f0b07551-f926-4349-9457-7e9e15766710)
 
 <div align="center">
   Visitor count<br>

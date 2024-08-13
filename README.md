@@ -9,6 +9,7 @@
 
 <div align="center">
   <h2>Coding Enthusiast, Problem Solver, 3D-Design Maker</h2>
+  <p><strong>About me</strong></p>
 
   <h4>
     I'm a 3rd year student from BMSIT from 🇮🇳 currently pursuing B.E in Information Science & Engineering.
@@ -18,7 +19,6 @@
 <br/>
 
 <div align="center">
-  <p><strong>About me</strong></p>
 
    📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 

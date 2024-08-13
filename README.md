@@ -1,9 +1,5 @@
 <![ASHISH KUMAR SAHOO (2)](https://github.com/user-attachments/assets/f0b07551-f926-4349-9457-7e9e15766710)
 
-div align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello World">
-</div>
-
 <div align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/darksparks474/count.svg" />

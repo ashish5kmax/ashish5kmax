@@ -20,7 +20,7 @@
 
 <div align="center">
 
-   📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+   📈 Built github-readme-stats.
 
    ❤️ I love solving Problems, and building projects and experimenting with it.
 

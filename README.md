@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darksparks474&repo=github-readme-stats)](https://github.com/darksparks474/darksparks474/main/README.md)
 <br/>
 <br/>
 

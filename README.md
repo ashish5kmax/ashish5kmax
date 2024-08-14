@@ -50,4 +50,4 @@
 <a href="mailto:ashish10112093@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish10112093@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [ashish4kmax](https://github.com/ashish4kmax)
+⭐️ From [ashish4kmax](https://github.com/darksparks474)

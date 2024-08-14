@@ -29,6 +29,8 @@
   ![Ashish Kumar Sahoo's GitHub](https://github-readme-stats.vercel.app/api?username=darksparks474&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darksparks474)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br />

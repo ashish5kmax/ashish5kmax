@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darksparks474&repo=darksparks474)](https://github.com/darksparks474/darksparks474/)
+  [![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=darksparks474&repo=darksparks474)](https://github.com/darksparks474/darksparks474/)
   [![Clev-Calc](https://github-readme-stats.vercel.app/api/pin/?username=darksparks474&repo=Clev-Calc)](https://github.com/darksparks474/Clev-Calc/)
 <br/>
 <br/>

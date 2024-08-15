@@ -53,12 +53,11 @@
 <hr/>
 
 <div align="center">
-  <h3> Click on the image to play the game and test yourself against players </h3>
+  <h3> Click on the animation to check out someting special</h3>
   <a href="https://ashish5kmax.github.io/Snake-Game/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4137177f-a45b-4355-9250-4309e9f2150c" alt="Snake Game" width="300">
+    <img src="https://raw.githubusercontent.com/ashish5kmax/piyush97/master/charts/github-snake-dark.svg" />
   </a>
 </div>
-
 
 ⭐️ From [ashish5kmax](https://github.com/ashish5kmax)
 

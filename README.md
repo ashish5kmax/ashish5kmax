@@ -40,7 +40,7 @@
 </table>
 
   [![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=darksparks474)](https://github.com/ashish5kmax/ashish5kmax/)
-  [![Clev-Calc](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmaxrepo=Clev-Calc)](https://github.com/ashish5kmax/Clev-Calc/)
+  [![Clev-Calc](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=Clev-Calc)](https://github.com/ashish5kmax/Clev-Calc/)
 <br/>
 <br/>
 

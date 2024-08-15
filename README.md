@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/darksparks474/count.svg" />
 </p>
 
-<br />
+<br/>
 <div align="center">
   <h2>Coding Enthusiast, Problem Solver, 3D-Design Maker</h2>
   <p><strong>About me</strong></p>
@@ -50,4 +50,16 @@
 <a href="mailto:ashish10112093@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish10112093@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<hr/>
+
+<div align="center">
+  <h3> Click on the image to play the game and test yourself against players </h3>
+  <a href="https://ashish5kmax.github.io/Snake-Game/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4137177f-a45b-4355-9250-4309e9f2150c" alt="Snake Game" width="300">
+  </a>
+</div>
+
+
 ⭐️ From [ashish4kmax](https://github.com/darksparks474)
+
+

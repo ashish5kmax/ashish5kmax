@@ -31,7 +31,7 @@
   <tr>
     <td>
 
-![Ashish Kumar Sahoo's GitHub](https://github-readme-stats.vercel.app/api?username=darksparks474&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
+![Ashish Kumar Sahoo's GitHub](https://github-readme-stats.vercel.app/api?username=ashish5kmax&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
     </td>
     <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,8 +39,8 @@
   </tr>
 </table>
 
-  [![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=darksparks474&repo=darksparks474)](https://github.com/darksparks474/darksparks474/)
-  [![Clev-Calc](https://github-readme-stats.vercel.app/api/pin/?username=darksparks474&repo=Clev-Calc)](https://github.com/darksparks474/Clev-Calc/)
+  [![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=darksparks474)](https://github.com/ashish5kmax/ashish5kmax/)
+  [![Clev-Calc](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmaxrepo=Clev-Calc)](https://github.com/ashish5kmax/Clev-Calc/)
 <br/>
 <br/>
 

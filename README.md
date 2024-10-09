@@ -73,4 +73,4 @@
   </a>
 </div>
 
-⭐️ if you like [ashish5kmax](https://github.com/ashish5kmax) my profile.
+⭐️ If you like [ashish5kmax](https://github.com/ashish5kmax) my profile.

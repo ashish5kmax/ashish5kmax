@@ -19,31 +19,32 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br/>
-  <h2>Coding Enthusiast, Problem Solver, 3D-Design Maker</h2>
+<br/>
+  <h2>💻Coding Enthusiast, Problem Solver, 3D-Design Maker</h2>
   <p><strong>About me</strong></p>
-
+  
   <h4>
-    I'm a 3rd year student from BMSIT from 🇮🇳 currently pursuing B.E in Information Science & Engineering.
+    I'm a Final year student from BMSIT from 🇮🇳 currently pursuing B.E in Information Science & Engineering.
 <div align="center">
-
-   📈 Built github-readme-stats.
-
    ❤️ I love solving Problems, and building projects and experimenting with it.
-
+   
    💬 Ask me about anything [**here**](mailto:ashish10112093@gmail.com)
 </div>
   </h4>
+  <br/>
+  <h2>⚡Stats⚡</h2>
 </div>
 
-<br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashish5kmax&theme=dracula&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 <table>
   <tr>
     <td>
 
 ![Ashish Kumar Sahoo's GitHub](https://github-readme-stats.vercel.app/api?username=ashish5kmax&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
     </td>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish5kmax&theme=radical&layout=pie)](https://github.com/ashish5kmax/github-readme-stats)
+
 
     
   </tr>
@@ -69,6 +70,6 @@
   </a>
 </div>
 
-⭐️ From [ashish5kmax](https://github.com/ashish5kmax)
 
+⭐️ From [ashish5kmax](https://github.com/ashish5kmax)
 

@@ -17,7 +17,7 @@
 <div align="center">
 <h2>Tech Stack</h2>
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ashish4k07)
+[![YouTube Channel](https://img.shields.io/badge/FEEL_FREE_TO_WATCH_MY_YT_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ashish4k07)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

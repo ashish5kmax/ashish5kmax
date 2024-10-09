@@ -73,10 +73,4 @@
   </a>
 </div>
 
-
-
-
-
-
-⭐️ From [ashish5kmax](https://github.com/ashish5kmax)
-
+⭐️ if you like [ashish5kmax](https://github.com/ashish5kmax) my profile.

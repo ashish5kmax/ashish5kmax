@@ -1,8 +1,8 @@
 ![ASHISH KUMAR SAHOO](https://github.com/user-attachments/assets/ab07bffc-2078-4cde-938d-2ab0d1060992)
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-kumar-sahoo-260643229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ashish_4k_mx/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ashish_kr_4k_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ashish10112093@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish10112093@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ashish-kumar-sahoo-260643229/ target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar%20Sahoo-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ashish_4k_mx/" target="_blank" rel="noopener noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ashish_kr_4k_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ashish10112093@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-ashish10112093@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p align="center"> 
   Visitor count<br>

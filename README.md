@@ -50,8 +50,8 @@
   </tr>
 </table>
 
-  [![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=ashish5kmax)](https://github.com/ashish5kmax/ashish5kmax/)
-  [![Clev-Calc](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=Clev-Calc)](https://github.com/ashish5kmax/Clev-Calc/)
+[![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=ashish5kmax&theme=dark)](https://github.com/ashish5kmax/ashish5kmax)
+[![Clev Calc](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=Clev-Calc&theme=dark)](https://github.com/ashish5kmax/Clev-Calc)
 <br/>
 <br/>
 
@@ -69,6 +69,10 @@
     <img src="https://raw.githubusercontent.com/ashish5kmax/piyush97/master/charts/github-snake-dark.svg" />
   </a>
 </div>
+
+
+
+
 
 
 ⭐️ From [ashish5kmax](https://github.com/ashish5kmax)

@@ -1,12 +1,24 @@
-![ASHISH KUMAR SAHOO (5)](https://github.com/user-attachments/assets/1768938b-710a-4baf-a789-c03be6f1596d)
+![ASHISH KUMAR SAHOO](https://github.com/user-attachments/assets/ab07bffc-2078-4cde-938d-2ab0d1060992)
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/darksparks474/count.svg" />
 </p>
 
-<br/>
+
 <div align="center">
+<h2>Tech Stack</h2>
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
   <h2>Coding Enthusiast, Problem Solver, 3D-Design Maker</h2>
   <p><strong>About me</strong></p>
 
@@ -19,8 +31,6 @@
    ❤️ I love solving Problems, and building projects and experimenting with it.
 
    💬 Ask me about anything [**here**](mailto:ashish10112093@gmail.com)
-
-
 </div>
   </h4>
 </div>

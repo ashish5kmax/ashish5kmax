@@ -13,7 +13,6 @@
   <img src="https://profile-counter.glitch.me/darksparks474/count.svg" />
 </p>
 
-
 <div align="center">
 <h2>Tech Stack</h2>
 
@@ -61,12 +60,21 @@
   </tr>
 </table>
 
+
 [![Profile Markdown](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=ashish5kmax&theme=dark)](https://github.com/ashish5kmax/ashish5kmax)
 [![Clev Calc](https://github-readme-stats.vercel.app/api/pin/?username=ashish5kmax&repo=Clev-Calc&theme=dark)](https://github.com/ashish5kmax/Clev-Calc)
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=ashish5kmax&theme=highcontrast" alt="GitHub Streak" />
+    </a>
+</div>
 <br/>
 <br/>
 <hr/>
 
+<div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=ashish5kmax&theme=highcontrast)](https://git.io/streak-stats)
+<div>
 <div align="center">
   <h3> Click on the animation to check out someting special</h3>
   <a href="https://ashish5kmax.github.io/Snake-Game/" target="_blank">

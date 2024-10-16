@@ -83,7 +83,6 @@
 <hr/>
 
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=ashish5kmax&theme=highcontrast)](https://git.io/streak-stats)
 <div>
 <div align="center">
   <h3> Click on the animation to check out someting special</h3>

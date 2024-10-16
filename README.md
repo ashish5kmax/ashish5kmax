@@ -1,3 +1,5 @@
+
+
 ![STUDENT (3)](https://github.com/user-attachments/assets/a89e2248-b05c-41ed-a526-76db968112ee)
 
 <p align="center">
@@ -14,8 +16,14 @@
   <img src="https://profile-counter.glitch.me/darksparks474/count.svg" />
 </p>
 
+<h2 align="center"> 
+  🌈Open-Source<br>
+</h2>
+
+[![An image of @ashish5kmax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashish5kmax)](https://holopin.io/@ashish5kmax)
+
 <div align="center">
-<h2>Tech Stack</h2>
+<h2>💻Tech Stack</h2>
 
 [![YouTube Channel](https://img.shields.io/badge/FEEL_FREE_TO_WATCH_MY_YT_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ashish4k07)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +40,7 @@
 
 <br/>
 <br/>
-  <h2>💻Coding Enthusiast, Problem Solver, 3D-Design Maker</h2>
+  <h2>🎓Coding Enthusiast, Problem Solver, 3D-Design Maker</h2>
   <p><strong>About me</strong></p>
   
   <h4>

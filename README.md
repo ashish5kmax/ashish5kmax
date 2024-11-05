@@ -1,4 +1,6 @@
-
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/{{ashish5kmax}}/achievements?format=svg&limit=3" width="350" />
+</p>
 
 ![STUDENT (3)](https://github.com/user-attachments/assets/a89e2248-b05c-41ed-a526-76db968112ee)
 

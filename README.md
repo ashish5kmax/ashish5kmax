@@ -1,6 +1,4 @@
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/{{ashish5kmax}}/achievements?format=svg&limit=3" width="350" />
-</p>
+
 
 ![STUDENT (3)](https://github.com/user-attachments/assets/a89e2248-b05c-41ed-a526-76db968112ee)
 
@@ -23,6 +21,15 @@
 </h2>
 
 [![An image of @ashish5kmax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashish5kmax)](https://holopin.io/@ashish5kmax)
+
+<p>
+  <a href="https://community.vaunt.dev/board/ashish5kmax/achievements">
+    <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/ashish5kmax/achievements?format=svg&limit=8&raw=true" width="350" />
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/ashish5kmax/badges/community)](https://community.vaunt.dev/board/ashish5kmax)
+
+  </a>
+</p>
 
 <div align="center">
 <h2>💻Tech Stack</h2>

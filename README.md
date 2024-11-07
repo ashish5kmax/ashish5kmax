@@ -7,9 +7,6 @@
 <a href="https://www.instagram.com/ashish_4k_mx/" target="_blank" rel="noopener noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ashish_kr_4k_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ashish10112093@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-ashish10112093@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8710560e-358d-47da-86bc-cabc2b183768" alt="Hello Image" />
-</p>
 
 <p align="center"> 
   Visitor count<br>
